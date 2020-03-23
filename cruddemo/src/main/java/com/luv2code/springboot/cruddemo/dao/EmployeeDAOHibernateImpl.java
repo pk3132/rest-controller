@@ -59,6 +59,7 @@ public class EmployeeDAOHibernateImpl implements EmployeeDAO {
 	
 	Query<Employee> theQuery=currentSession.createQuery("delete from Employee where id=:employeeId");
 	theQuery.setParameter("employeeId", theId);
+        System.out.println("This is git testing");
 	theQuery.executeUpdate();
 		
 	}
