@@ -1,10 +1,10 @@
 Manifest-Version: 1.0
+Built-By: pk313
+Build-Jdk: 11.0.6
 Implementation-Title: cruddemo
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: pk313
 Implementation-Vendor-Id: com.luv2code.springboot
-Build-Jdk: 1.8.0_221
-Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
- ot-starter-parent/cruddemo
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/cruddemo
 Created-By: Maven Integration for Eclipse
 
