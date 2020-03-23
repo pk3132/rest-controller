@@ -61,6 +61,7 @@ public class EmployeeDAOHibernateImpl implements EmployeeDAO {
 	theQuery.setParameter("employeeId", theId);
         System.out.println("This is git testing");
 	theQuery.executeUpdate();
+        System.out.println("This is second git commit");
 		
 	}
 	
