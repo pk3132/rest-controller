@@ -63,6 +63,7 @@ public class EmployeeDAOHibernateImpl implements EmployeeDAO {
 	theQuery.executeUpdate();
         System.out.println("This is second git commit");
         System.out.println("This is my commit code through eclipse");
+		System.out.println("I have changed in my git now i want to pull");
 		
 	}
 	
